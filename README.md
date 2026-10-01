@@ -1,30 +1,8 @@
-# Nexa Auth — Modern React Login & Registration UI
+# Project moved
 
-A polished, responsive authentication interface built with React. This project focuses on modern frontend UI patterns, reusable components, accessibility, and both light and dark themes.
+This Day 1 project is now part of the main **React 30-Day Portfolio** repository.
 
-## Features
+➡️ **Current location:**  
+https://github.com/mabdula2004/react-30-day-portfolio/tree/main/day-01-login-register-ui
 
-- Login and registration modes
-- Light / dark theme toggle with localStorage persistence
-- Responsive split-screen layout
-- Password visibility control
-- Reusable auth and theme components
-- Accessible labels and keyboard-friendly controls
-- Modern gradient, glass, and layered UI treatment
-- Mobile responsive layout
-
-## Tech Stack
-
-- React
-- Vite
-- CSS3
-- Lucide React
-
-## Run locally
-
-```bash
-npm install
-npm run dev
-```
-
-Part of a 30-day frontend portfolio challenge focused on React UI design, component structure, responsive layouts, and practical JavaScript.
+The separate repository remains only so older links, including the original LinkedIn showcase post, continue to point visitors to the correct project.
